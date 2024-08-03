@@ -1,7 +1,7 @@
 "headers:
-headers
-typedef
-cplx
-selection
-fibonacci
-quadratic
+-headers
+-typedef
+-cplx
+-selection
+-fibonacci
+-quadratic"
