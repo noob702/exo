@@ -3,7 +3,7 @@
 
 void fibonacci(int a)
 {
-    int i=0,n,m;
+    int n,m;
     printf("Entrez la valeur de n:");
     scanf("%d",&n);
     m=n-1;
